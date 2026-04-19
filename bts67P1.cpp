@@ -1,20 +1,4 @@
-/*
- * bts67P1.cpp
- *
- * COSC 1020
- * Project #1 Code
- *
- * Due on: 2/6/2026
- * Author: bts67
- *
- * In accordance with class policies and Georgetown's Honor Code,
- * I certify that, with the exception of the class resources and those
- * items noted below, I have neither given nor received any assistance
- * on this project.
- *
- * Note that you may use without citation any help from our TAs,
- * professors, or any code taken from the course textbook.
- */
+
 
 #include <iostream>
 #include <iomanip>
