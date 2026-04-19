@@ -1,20 +1,3 @@
-/*
- * bsadlerP2.cpp
- *
- * COSC 1020
- * Project #2 Code
- *
- * Due on: [Insert Due Date]
- * Author: bsadler
- *
- * In accordance with class policies and Georgetown's Honor Code,
- * I certify that, with the exception of the class resources and those
- * items noted below, I have neither given nor received any assistance
- * on this project.
- *
- * Note that you may use without citation any help from our TAs,
- * professors, or any code taken from the course textbook.
- */
 
 #include <iostream>
 #include <fstream>
